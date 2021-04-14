@@ -7,3 +7,6 @@ http://wiki.hrw-fablab.de
 für genauere Informationen zu unserem Projekt:
 
 http://wiki.hrw-fablab.de/index.php?title=Smarter_Fensterlüfter
+
+
+Jona Willemsen
